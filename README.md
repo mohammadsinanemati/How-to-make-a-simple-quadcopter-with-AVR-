@@ -32,5 +32,8 @@ Wireless communication for control signals
 
 Outcome:
 A functional quadcopter capable of stable flight under manual remote control, with the AVR microcontroller handling sensor fusion and motor control.
-<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/aabec77f-7379-4439-b974-8a367da2054f" />
+
+
+
+#<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/aabec77f-7379-4439-b974-8a367da2054f" />
 
